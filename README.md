@@ -61,12 +61,13 @@ I only found out about this internship recently and did not have enough time to 
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording]
+(https://ccny.zoom.us/rec/share/2OvQxI6Qld1PxeSxeTSff6qrvQp53hir-2eyUeUJpSCXUT0ybRFNHo0_E0MUmCM.jGrEUJ9Lj8mco-41?startTime=1648855016000 (Passcode: 29%28E#H))
 
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Sean Umali]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
